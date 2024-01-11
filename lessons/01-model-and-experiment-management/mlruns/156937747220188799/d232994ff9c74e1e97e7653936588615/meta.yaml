@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ariay/OneDrive/Documents/8vo%20semestre/MLops/MLopsCrashCourse/lessons/01-model-and-experiment-management/mlruns/156937747220188799/d232994ff9c74e1e97e7653936588615/artifacts
+end_time: 1704911031109
+entry_point_name: ''
+experiment_id: '156937747220188799'
+lifecycle_stage: active
+run_id: d232994ff9c74e1e97e7653936588615
+run_name: incongruous-cub-938
+run_uuid: d232994ff9c74e1e97e7653936588615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704910964079
+status: 3
+tags: []
+user_id: ariay

@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1704911031084
+current_stage: Production
+description: null
+last_updated_timestamp: 1704911221849
+name: LinearRegressionModel
+run_id: d232994ff9c74e1e97e7653936588615
+run_link: null
+source: file:///c:/Users/ariay/OneDrive/Documents/8vo%20semestre/MLops/MLopsCrashCourse/lessons/01-model-and-experiment-management/mlruns/156937747220188799/d232994ff9c74e1e97e7653936588615/artifacts/linear_regression_model
+status: READY
+status_message: null
+user_id: null
+version: 1
