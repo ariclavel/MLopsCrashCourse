@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ariay/OneDrive/Documents/8vo%20semestre/MLops/MLopsCrashCourse/lessons/01-model-and-experiment-management/mlruns/498786482286902202/60bc7734b75444209c42894ab32cdd09/artifacts
+end_time: 1705079752913
+entry_point_name: ''
+experiment_id: '498786482286902202'
+lifecycle_stage: active
+run_id: 60bc7734b75444209c42894ab32cdd09
+run_name: nosy-colt-948
+run_uuid: 60bc7734b75444209c42894ab32cdd09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705079730762
+status: 3
+tags: []
+user_id: ariay

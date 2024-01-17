@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ariay/OneDrive/Documents/8vo%20semestre/MLops/MLopsCrashCourse/lessons/01-model-and-experiment-management/mlruns/498786482286902202/688d0e95dbc0461ab9cd262cb9c47276/artifacts
+end_time: 1705079372525
+entry_point_name: ''
+experiment_id: '498786482286902202'
+lifecycle_stage: active
+run_id: 688d0e95dbc0461ab9cd262cb9c47276
+run_name: unleashed-turtle-874
+run_uuid: 688d0e95dbc0461ab9cd262cb9c47276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705079350220
+status: 4
+tags: []
+user_id: ariay

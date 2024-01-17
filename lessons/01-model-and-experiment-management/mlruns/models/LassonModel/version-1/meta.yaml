@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1705079456962
+current_stage: Production
+description: null
+last_updated_timestamp: 1705079465608
+name: LassonModel
+run_id: 26f9508fe7a94d9bb2512fb8135a48d6
+run_link: null
+source: file:///c:/Users/ariay/OneDrive/Documents/8vo%20semestre/MLops/MLopsCrashCourse/lessons/01-model-and-experiment-management/mlruns/498786482286902202/26f9508fe7a94d9bb2512fb8135a48d6/artifacts/lasso_model
+status: READY
+status_message: null
+user_id: null
+version: 1

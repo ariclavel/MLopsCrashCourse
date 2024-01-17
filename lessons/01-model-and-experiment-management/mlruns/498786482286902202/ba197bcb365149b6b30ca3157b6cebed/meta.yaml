@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ariay/OneDrive/Documents/8vo%20semestre/MLops/MLopsCrashCourse/lessons/01-model-and-experiment-management/mlruns/498786482286902202/ba197bcb365149b6b30ca3157b6cebed/artifacts
+end_time: 1705079820477
+entry_point_name: ''
+experiment_id: '498786482286902202'
+lifecycle_stage: active
+run_id: ba197bcb365149b6b30ca3157b6cebed
+run_name: industrious-ray-883
+run_uuid: ba197bcb365149b6b30ca3157b6cebed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705079798561
+status: 4
+tags: []
+user_id: ariay

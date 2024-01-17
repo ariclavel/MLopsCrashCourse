@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ariay/OneDrive/Documents/8vo%20semestre/MLops/MLopsCrashCourse/lessons/01-model-and-experiment-management/mlruns/648573013058195454/95f10b84f26844fc92fddf73c7cbd029/artifacts
+end_time: 1705078963473
+entry_point_name: ''
+experiment_id: '648573013058195454'
+lifecycle_stage: active
+run_id: 95f10b84f26844fc92fddf73c7cbd029
+run_name: orderly-lynx-903
+run_uuid: 95f10b84f26844fc92fddf73c7cbd029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705078956860
+status: 3
+tags: []
+user_id: ariay
