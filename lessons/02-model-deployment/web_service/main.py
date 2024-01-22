@@ -82,7 +82,7 @@ def run_inference(input_data: Item):
         with open(model_path, 'rb') as model_file:
             pre_trained_model = pickle.load(model_file)
             #print(pre_trained_model)
-            y = pre_trained_model.predict([[True, 126, 1]])
+            y = pre_trained_model.predict([True, 126, 1])
             print(y)
             return {y}
             
